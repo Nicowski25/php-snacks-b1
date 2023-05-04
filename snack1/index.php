@@ -5,6 +5,12 @@
             'away' => 'Cantu',
             'home_points' => '55',
             'away_points' => '60'
+        ],
+        [
+            'home' => 'Milan',
+            'away' => 'Inter',
+            'home_points' => '2',
+            'away_points' => '0' 
         ]
     ]
 
